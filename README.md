@@ -1,8 +1,9 @@
-# README Generator
+# README generator
 
 ## Description 
 
-This project uses node.js and the inquirer npm package to prompt a user with questions and collect their answers. 
+Creates a professional readme
+[Demo Video] (https://drive.google.com/file/d/1nXW4WDXYVafIVivgiv2tdAVs1dorlKp9/view)
 
 ## Table of Contents 
    
@@ -16,26 +17,26 @@ This project uses node.js and the inquirer npm package to prompt a user with que
 
 ## Installation
 
-
+You need to install node index.js and npm
 
 ## Usage 
 
-jdlf
+You have to use the terminal for it to work
 
 
 ## License
 
-djfdd
+MIT License
 
 
 ## Contributing
-fd
+Just me
 
 ## Tests
-fdfdsjdsjfdf
+None
 
 ## Questions
-   Github Profile: dsf
-   Email: fdksdsksdfs
+   Github Profile: github.com/zhanez
+   Email: zhanezabala@gmail.com
    
   
